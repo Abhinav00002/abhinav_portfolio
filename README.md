@@ -15,7 +15,7 @@ Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 ## 📌 Sneak Peek of Main Page 🙈 :
 ![mockup720](https://github.com/Abhinav00002/abhinav_portfolio/blob/main/assets/images/projects/portfolio1.png)
-![ss](https://github.com/Abhinav00002/abhinav_portfolio/blob/main/assets/images/projects/portfolio1.png)
+<!-- ![ss](https://github.com/Abhinav00002/abhinav_portfolio/blob/main/assets/images/projects/portfolio1.png)-->
 
 
 <h2>📬 Contact</h2>
