@@ -1,22 +1,21 @@
 [
   {
-    "name": "ResumeGen",
-    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
-    "image": "resumegen",
-    "category": "mern",
-    "links": {
-      "view": "https://resumegenx.netlify.app/",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Sale House Price Prediction",
-    "desc": "Innovative web application designed for predicting house prices using machine learning algorithms. Built with Python, leveraging powerful libraries such as Pandas for data manipulation and Matplotlib for data visualization. Developed in Anaconda for efficient package management and environment setup, the app integrates machine learning techniques to analyze real estate data and provide accurate price predictions based on various features.",
-    "image": "pricepridection",
+    "name": "StrataGen - Enhancement in FRACPRO.OPS Application",
+    "desc": " Spearheaded the development of a comprehensive software solution for the Carboceramics industry, focusing on optimizing frac operations and enhancing data management. Utilized Java Spring Boot, Microservices architecture, and MongoDB. Managed deployment and continuous integration using Jenkins, adhering to Agile methodologies.",
+    "image": "fracproops",
     "category": "Web-Application",
     "links": {
       "view": "#",
       "code": "#"
+    }
+  },{
+    "name": "Loan Management System (LMS) for Vitarma.in",
+    "desc": "A comprehensive Loan Management System developed for Vitarma.in, designed to handle the entire loan lifecycle. This system manages loan application processing, approval workflows, disbursement, and repayment tracking. It provides detailed reporting on loan status, performance, and delinquency, supporting financial analysis and decision-making. The LMS ensures efficient handling of loan data and integrates seamlessly with other financial modules.",
+    "image": "financialweb",
+    "category": "Web-Application",
+    "links": {
+        "view": "#",
+        "code": "#"
     }
   },
   {
@@ -38,11 +37,10 @@
       "view": "#",
       "code": "#"
     }
-  },
-  {
-    "name": "HR Website",
-    "desc": "Comprehensive HR Management System that facilitates employee recruitment, onboarding, and management through a user-friendly interface. Built using Python, Django, Django ORM, PostgreSQL, and Django views (HTML, JSON, XML, etc.) to streamline HR processes and enhance organizational efficiency.",
-    "image": "hrwebsite",
+  }, {
+    "name": "Sale House Price Prediction",
+    "desc": "Innovative web application designed for predicting house prices using machine learning algorithms. Built with Python, leveraging powerful libraries such as Pandas for data manipulation and Matplotlib for data visualization. Developed in Anaconda for efficient package management and environment setup, the app integrates machine learning techniques to analyze real estate data and provide accurate price predictions based on various features.",
+    "image": "pricepridection",
     "category": "Web-Application",
     "links": {
       "view": "#",
@@ -50,29 +48,19 @@
     }
   },
   {
-    "name": "Portfolio Website",
-    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-    "image": "portfolio1",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "https://github.com/Abhinav0002/Portfolio-Website"
-    }
-  },
-  {
-    "name": "Bootstrap Portfolio",
-    "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
-    "image": "bootstrapportfolio",
-    "category": "basicweb",
+    "name": "ResumeGen",
+    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "image": "resumegen",
+    "category": "mern",
     "links": {
       "view": "#",
       "code": "#"
     }
   },
-  {
-    "name": "Bootstrap Template",
-    "desc": "Basic website template built using HTML and Bootstrap.",
-    "image": "bootstraptemplate",
+    {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
     "category": "basicweb",
     "links": {
       "view": "#",
