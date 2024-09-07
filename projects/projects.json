@@ -1,27 +1,68 @@
 [
   {
     "name": "StrataGen - Enhancement in FRACPRO.OPS Application",
-    "desc": " Spearheaded the development of a comprehensive software solution for the Carboceramics industry, focusing on optimizing frac operations and enhancing data management. Utilized Java Spring Boot, Microservices architecture, and MongoDB. Managed deployment and continuous integration using Jenkins, adhering to Agile methodologies.",
+    "desc": "Spearheaded the development of a comprehensive software solution for the Carboceramics industry, focusing on optimizing frac operations and enhancing data management. Utilized Java Spring Boot, Microservices architecture, and MongoDB. Managed deployment and continuous integration using Jenkins, adhering to Agile methodologies.",
     "image": "fracproops",
     "category": "Web-Application",
     "links": {
       "view": "#",
       "code": "#"
     }
-  },{
-    "name": "Loan Management System (LMS) for Vitarma.in",
-    "desc": "A comprehensive Loan Management System developed for Vitarma.in, designed to handle the entire loan lifecycle. This system manages loan application processing, approval workflows, disbursement, and repayment tracking. It provides detailed reporting on loan status, performance, and delinquency, supporting financial analysis and decision-making. The LMS ensures efficient handling of loan data and integrates seamlessly with other financial modules.",
-    "image": "financialweb",
+  },
+  {
+    "name": "Datahub Project",
+    "desc": "Contributed to the development of Datahub, a data management and integration platform designed for real-time data processing and synchronization. Integrated multiple data sources and ensured data consistency and availability using Java 21, PostgreSQL, Kafka, Debezium, Redis, and Eureka.",
+    "image": "datahub",
     "category": "Web-Application",
     "links": {
-        "view": "#",
-        "code": "#"
+      "view": "#",
+      "code": "#"
     }
   },
   {
-    "name": "HR Website",
-    "desc": "Comprehensive HR Management System that facilitates employee recruitment, onboarding, and management through a user-friendly interface. Built using Python, Django, Django ORM, PostgreSQL, and Django views (HTML, JSON, XML, etc.) to streamline HR processes and enhance organizational efficiency.",
-    "image": "hrwebsite",
+    "name": "Loan Management System (LMS) for Vitarma.in",
+    "desc": "Developed a comprehensive Loan Management System for Vitarma.in to manage loan application processing, approval workflows, disbursement, and repayment tracking. Integrated with other financial modules for seamless operation.",
+    "image": "financialweb",
+    "category": "Web-Application",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Banking and Loan Management (JanSamriddhi.in)",
+    "desc": "Developed a comprehensive platform for managing banking operations and loan management processes, including account management, transaction processing, and loan tracking. Integrated Angular for frontend and Java Spring Boot for backend services.",
+    "image": "bankingloanmanagement",
+    "category": "Web-Application",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Inventory Management System",
+    "desc": "Developed a Java-based application for managing inventory, tracking stock levels, handling orders, and generating reports to improve inventory accuracy and streamline order processing.",
+    "image": "inventorymanagement",
+    "category": "Web-Application",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Customer Feedback System",
+    "desc": "Designed and implemented a customer feedback system to collect, analyze, and act on customer feedback. Used Java and Hibernate for data management and reporting.",
+    "image": "customerfeedback",
+    "category": "Web-Application",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "All-in-One Hotel Management System",
+    "desc": "Developed a robust web application to streamline hotel operations, including room bookings, cab and bike rentals, and food orders. Built using Angular for the frontend and Java Spring Boot for backend services.",
+    "image": "hotelmanagement",
     "category": "Web-Application",
     "links": {
       "view": "#",
@@ -30,18 +71,29 @@
   },
   {
     "name": "Student Online Registration",
-    "desc": "Developed a comprehensive Student Online Registration system following the MVT (Model-View-Template) design pattern. This CRUD (Create, Read, Update, Delete) application was built using Python and Django, leveraging Django ORM for database interactions and SQLite as the database. The project includes dynamic views that handle various response formats such as HTML, JSON, and XML, offering a robust and scalable solution for managing student registrations.",
-    "image": "online-registration",
+    "desc": "Developed a comprehensive Student Online Registration system using Python and Django, following the MVT design pattern. Implemented dynamic views and CRUD functionality for managing student registrations.",
+    "image": "studentregistration",
     "category": "Web-Application",
     "links": {
       "view": "#",
       "code": "#"
     }
-  }, {
+  },
+  {
     "name": "Sale House Price Prediction",
-    "desc": "Innovative web application designed for predicting house prices using machine learning algorithms. Built with Python, leveraging powerful libraries such as Pandas for data manipulation and Matplotlib for data visualization. Developed in Anaconda for efficient package management and environment setup, the app integrates machine learning techniques to analyze real estate data and provide accurate price predictions based on various features.",
-    "image": "pricepridection",
+    "desc": "Created a web application for predicting house prices using machine learning algorithms. Built with Python and libraries like Pandas and Matplotlib for data manipulation and visualization.",
+    "image": "priceprediction",
     "category": "Web-Application",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website showcasing professional experience, projects, and skills.",
+    "image": "portfolio1",
+    "category": "Basic Web",
     "links": {
       "view": "#",
       "code": "#"
@@ -49,19 +101,9 @@
   },
   {
     "name": "ResumeGen",
-    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "desc": "A ReactJS-based resume generator that allows users to create customized resumes quickly based on their requirements.",
     "image": "resumegen",
-    "category": "mern",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-    {
-    "name": "Portfolio Website",
-    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-    "image": "portfolio1",
-    "category": "basicweb",
+    "category": "MERN",
     "links": {
       "view": "#",
       "code": "#"
@@ -69,9 +111,9 @@
   },
   {
     "name": "Foodicious",
-    "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
+    "desc": "Basic food website landing page built using HTML, CSS, and JavaScript.",
     "image": "foodicious",
-    "category": "basicweb",
+    "category": "Basic Web",
     "links": {
       "view": "#",
       "code": "#"
@@ -79,9 +121,9 @@
   },
   {
     "name": "Food Website",
-    "desc": "Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery.",
+    "desc": "Basic food website landing page developed using HTML, CSS, SASS, Bootstrap, and jQuery.",
     "image": "foodwebsite",
-    "category": "basicweb",
+    "category": "Basic Web",
     "links": {
       "view": "#",
       "code": "#"
@@ -89,69 +131,9 @@
   },
   {
     "name": "Basic Banking App",
-    "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
+    "desc": "Android app that uses SQLite to store user account data and provides features for basic transactions.",
     "image": "basicbank",
-    "category": "android",
-    "links": {
-      "view": "https://github.com/jigar-sable/Basic_Banking_App#basic-banking-app",
-      "code": "https://github.com/jigar-sable/Basic_Banking_App"
-    }
-  },
-  {
-    "name": "JavaScript Issue Tracker",
-    "desc": "It provides the feature to Assign Issue With The Auto Generated Id By Using ChanceJS. Uses Local Storage.",
-    "image": "issuetrack",
-    "category": "basicweb",
-    "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects/projects/issuetracker",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects/tree/main/projects/issuetracker"
-    }
-  } ,
-  {
-    "name": "Job Finder Dummy",
-    "desc": "It Fetch JSON Data And Allow Feature To Search Within The Content Displayed. Will be Developed By Using Live APIs.",
-    "image": "saas",
-    "category": "basicweb",
-    "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects/api-projects/saas-jobs",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects/tree/main/api-projects/saas-jobs"
-    }
-  },
-  {
-    "name": "Old Websites",
-    "desc": "Bestwebs & ColorCoder. Two Years old websites memories. Simple with basic features.",
-    "image": "oldsites",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Resistor Color Codes",
-    "desc": "Simply provides the color codes of resistors. Calculation information and about resistors.",
-    "image": "resistercolor",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "KIA Info Website",
-    "desc": "Basic KIA webpage displays the info about seltos product range. Specs and Image Gallery.",
-    "image": "kiaweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Burger Shop Dummy",
-    "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
-    "image": "burgerweb",
-    "category": "basicweb",
+    "category": "Android",
     "links": {
       "view": "#",
       "code": "#"
@@ -159,9 +141,9 @@
   },
   {
     "name": "Indian Temples",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "desc": "Displays temples from different regions of India. Clicking on a temple redirects to its Wikipedia page for more information.",
     "image": "templeweb",
-    "category": "basicweb",
+    "category": "Basic Web",
     "links": {
       "view": "#",
       "code": "#"
