@@ -1,6 +1,16 @@
 [{
-    "name": "Banking And Loan Plateform",
-    "desc": "Developed and enhanced the back-end for NBFC (modules: Branch Management, Loan Processing, Management Reporting, HRMS, and My Office) and Connect (daily use loan management app for employees and customers)",
+    "name": "Mango Finance PLC",
+    "desc": "Leading development of NBC-regulated digital microfinance platform for Cambodia serving 100K+ unbanked customers; architecting web and mobile apps with alternative credit scoring engine for secure digital lending",
+    "image": "nbfc",
+    "category": "Web-Application",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+    {
+    "name": "Sales And Connect Plateform",
+    "desc": "Developed and enhanced the back-end for NBFC (modules: Loan Processing, Payment Gateway, Equifax CBC check, Mandate, Nach & E-Nach Payment, Passbook Reporting, KYC & E-KYC Verification, HRMS ETC.) and Connect (daily use loan management app for employees and customers)",
     "image": "nbfc",
     "category": "Web-Application",
     "links": {
